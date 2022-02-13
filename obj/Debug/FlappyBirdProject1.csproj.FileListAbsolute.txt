@@ -1,0 +1,11 @@
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\bin\Debug\FlappyBirdProject1.exe.config
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\bin\Debug\FlappyBirdProject1.exe
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\bin\Debug\FlappyBirdProject1.pdb
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\obj\Debug\FlappyBirdProject1.csproj.AssemblyReference.cache
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\obj\Debug\FlappyBirdProject1.csproj.SuggestedBindingRedirects.cache
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\obj\Debug\FlappyBirdProject1.Form1.resources
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\obj\Debug\FlappyBirdProject1.Properties.Resources.resources
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\obj\Debug\FlappyBirdProject1.csproj.GenerateResource.cache
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\obj\Debug\FlappyBirdProject1.csproj.CoreCompileInputs.cache
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\obj\Debug\FlappyBirdProject1.exe
+C:\Users\yorda\source\repos\FlappyBirdProject1\FlappyBirdProject1\obj\Debug\FlappyBirdProject1.pdb
